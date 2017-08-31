@@ -1,0 +1,2 @@
+god,fighting
+#firset
